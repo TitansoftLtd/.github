@@ -1,7 +1,7 @@
 # 👋 Welcome to Titansoft Limited!
 
 🙋‍♂️ **Who are we?**
-We’re **Titansoft Limited**, a Kenya-based technology company on a mission to build robust, open-source ERP solutions for businesses across Africa and beyond. 🚀 We specialize in customizing and extending **ERPNext** to solve real-world challenges — from streamlining operations to integrating local payment systems like **M-Pesa**.
+We’re **Titansoft Limited**, a Kenya-based technology company on a mission to build robust, open-source ERP solutions for businesses across Africa and beyond. 🚀 We specialize in customizing and extending **ERPNext** to solve real-world challenges, from streamlining operations to integrating local payment systems like **M-Pesa**.
 
 Whether you're a business looking to go digital or a developer ready to build with purpose, you're in the right place.
 
